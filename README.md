@@ -1,4 +1,4 @@
-# SQL Data Analysis Project | Data Technician Bootcamp
+# SQL Data Analysis Project
 
 ## Overview
 This project was completed as part of a **Data Technician Bootcamp**, where I developed practical SQL skills to query, analyse, and extract insights from retail, sales, customer, and global datasets. Working with databases such as **Northwind** and **World**, I used SQL to retrieve, filter, organise, and aggregate data to support business reporting and decision-making.
