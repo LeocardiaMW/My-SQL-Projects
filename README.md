@@ -11,6 +11,13 @@ This project was completed as part of a **Data Technician Bootcamp**, where I de
 - Used `DISTINCT` to identify unique values and eliminate duplicate results.
 - Implemented conditional logic with `AND`, `OR`, `BETWEEN`, and `LIKE` operators.
 
+<img width="526" height="191" alt="image" src="https://github.com/user-attachments/assets/52f9c0bd-b694-47e2-a57c-e18d7a49fec5" />
+
+<img width="495" height="170" alt="image" src="https://github.com/user-attachments/assets/fe3e48b5-862e-40ba-8714-6db150c462c6" />
+
+<img width="529" height="166" alt="image" src="https://github.com/user-attachments/assets/8a092aaf-33a8-47f0-b4bf-e8cd2190cb2d" />
+
+
 ### Data Sorting and Organisation
 - Used `ORDER BY` to sort results in both ascending and descending order.
 - Generated structured reports for customers, products, orders, and cities.
@@ -34,6 +41,11 @@ This project was completed as part of a **Data Technician Bootcamp**, where I de
   - `LEFT JOIN`
   - Knowledge of `RIGHT JOIN`, `FULL JOIN`, and `CROSS JOIN`
 - Linked customers, orders, employees, suppliers, categories, and products to create meaningful business reports.
+
+<img width="506" height="169" alt="image" src="https://github.com/user-attachments/assets/78fbb76f-32d5-4f58-83e4-a6f898e1c674" />
+
+<img width="440" height="158" alt="image" src="https://github.com/user-attachments/assets/c440a199-b121-4406-9742-3c648334ea13" />
+
 ## Project Highlights
 
 ### Retail & Sales Analysis
