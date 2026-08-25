@@ -83,8 +83,8 @@ Through this project, I strengthened my ability to:
 
 ## ✨📸 Example SQL Queries
 
-### ✍️ Checking average population by country
+### ✍️ Checking average population by country:
 <img width="593" height="185" alt="image" src="https://github.com/user-attachments/assets/651aaf31-bdb9-4e6c-b8e0-2618ade80932" />
 
-### ✍️ Checking countries with lowest population density
+### ✍️ Checking countries with lowest population density:
 <img width="560" height="126" alt="image" src="https://github.com/user-attachments/assets/fa44fdb6-65db-459f-9277-111a2d258726" />
