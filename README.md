@@ -11,6 +11,8 @@ This project was completed as part of a **Data Technician Bootcamp**, where I de
 - Used `DISTINCT` to identify unique values and eliminate duplicate results.
 - Implemented conditional logic with `AND`, `OR`, `BETWEEN`, and `LIKE` operators.
 
+### ✨📸 Examples of filtering data:
+
 <img width="526" height="191" alt="image" src="https://github.com/user-attachments/assets/52f9c0bd-b694-47e2-a57c-e18d7a49fec5" />
 
 <img width="495" height="170" alt="image" src="https://github.com/user-attachments/assets/fe3e48b5-862e-40ba-8714-6db150c462c6" />
@@ -42,9 +44,11 @@ This project was completed as part of a **Data Technician Bootcamp**, where I de
   - Knowledge of `RIGHT JOIN`, `FULL JOIN`, and `CROSS JOIN`
 - Linked customers, orders, employees, suppliers, categories, and products to create meaningful business reports.
 
-<img width="506" height="169" alt="image" src="https://github.com/user-attachments/assets/78fbb76f-32d5-4f58-83e4-a6f898e1c674" />
+### ✨📸 Examples of using JOINS:
 
-<img width="440" height="158" alt="image" src="https://github.com/user-attachments/assets/c440a199-b121-4406-9742-3c648334ea13" />
+<img width="550" height="142" alt="image" src="https://github.com/user-attachments/assets/67251950-3762-46bb-bd3b-d731cfc62ab6" />
+
+<img width="551" height="158" alt="image" src="https://github.com/user-attachments/assets/e64e5edc-4e55-4afd-a554-a5ae14fd50c4" />
 
 ## Project Highlights
 
@@ -76,3 +80,11 @@ Through this project, I strengthened my ability to:
 - Transform raw data into meaningful business insights.
 - Create analytical reports that support data-driven decision-making.
 - Apply industry-standard SQL techniques in real-world data scenarios.
+
+## ✨📸 Example SQL Queries
+
+### ✍️ Checking average population by country
+<img width="593" height="185" alt="image" src="https://github.com/user-attachments/assets/651aaf31-bdb9-4e6c-b8e0-2618ade80932" />
+
+### ✍️ Checking countries with lowest population density
+<img width="560" height="126" alt="image" src="https://github.com/user-attachments/assets/fa44fdb6-65db-459f-9277-111a2d258726" />
