@@ -47,7 +47,7 @@ This project was completed as part of a **Data Technician Bootcamp**, where I de
 ### ✨📸 Examples of using JOINS:
 
 <img width="550" height="142" alt="image" src="https://github.com/user-attachments/assets/67251950-3762-46bb-bd3b-d731cfc62ab6" />
-
+<br><br>
 <img width="551" height="158" alt="image" src="https://github.com/user-attachments/assets/e64e5edc-4e55-4afd-a554-a5ae14fd50c4" />
 
 ## Project Highlights
