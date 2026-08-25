@@ -13,11 +13,11 @@ This project was completed as part of a **Data Technician Bootcamp**, where I de
 
 ### ✨📸 Examples of filtering data:
 
-<img width="526" height="191" alt="image" src="https://github.com/user-attachments/assets/52f9c0bd-b694-47e2-a57c-e18d7a49fec5" />
+<img width="552" height="159" alt="image" src="https://github.com/user-attachments/assets/879ccd1c-2c06-4328-a184-4351002302b6" />
 
-<img width="495" height="170" alt="image" src="https://github.com/user-attachments/assets/fe3e48b5-862e-40ba-8714-6db150c462c6" />
+<img width="551" height="173" alt="image" src="https://github.com/user-attachments/assets/658793fd-6a66-41e1-a7d2-46ca301a16f3" />
 
-<img width="529" height="166" alt="image" src="https://github.com/user-attachments/assets/8a092aaf-33a8-47f0-b4bf-e8cd2190cb2d" />
+<img width="551" height="190" alt="image" src="https://github.com/user-attachments/assets/65e32dff-f3aa-48d7-b782-ab545f2c9b06" />
 
 
 ### Data Sorting and Organisation
