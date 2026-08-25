@@ -14,9 +14,9 @@ This project was completed as part of a **Data Technician Bootcamp**, where I de
 ### ✨📸 Examples of filtering data:
 
 <img width="552" height="159" alt="image" src="https://github.com/user-attachments/assets/879ccd1c-2c06-4328-a184-4351002302b6" />
-
+<br><br>
 <img width="551" height="173" alt="image" src="https://github.com/user-attachments/assets/658793fd-6a66-41e1-a7d2-46ca301a16f3" />
-
+<br><br>
 <img width="551" height="190" alt="image" src="https://github.com/user-attachments/assets/65e32dff-f3aa-48d7-b782-ab545f2c9b06" />
 
 
